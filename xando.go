@@ -7,6 +7,8 @@ import(
 )
 
 
+//Checks equal number of x and o in the input
+
 func main(){
 	var array string
 	fmt.Scan(&array)
